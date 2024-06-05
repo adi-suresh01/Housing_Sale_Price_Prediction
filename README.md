@@ -1,2 +1,2 @@
 # Housing_Sale_Price_Prediction
- Predicting the sale price of a house based on various features.
+This project aims to address the pressing need for robust predictive models that can effectively forecast house sale prices with a high degree of accuracy. By leveraging machine learning algorithms, statistical techniques, and comprehensive datasets encompassing property attributes, economic indicators, and local market trends, the project seeks to develop a predictive framework capable of generating reliable estimates of house sale prices.
